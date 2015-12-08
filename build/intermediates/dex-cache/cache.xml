@@ -2,13 +2,6 @@
 <items version="2" >
 
     <item
-        jar="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
-        <dex dex="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-be54012eb6cebd28be44cd263d4ef4195c61beaa.jar" />
-    </item>
-    <item
         jar="/Users/adampodraza/Downloads/xyzreader/XYZReader/libs/volley.jar"
         jumboMode="false"
         revision="22.0.1"
@@ -16,18 +9,39 @@
         <dex dex="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley-e641c805c0febcca5a9fe7b21d3dcd033154447d.jar" />
     </item>
     <item
-        jar="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jar="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-21cf6d97693445d2d0c84b7bd6dc137fb97bd27c.jar" />
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-9c1ff89cdc7414500910d5dfec797933774d15d1.jar" />
     </item>
     <item
-        jar="/Users/adampodraza/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jar="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-83bc33b4938a5d083ef3505585a885a2e972605f.jar" />
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-98f176de0ca3af1835537fd2788324ca34acb22f.jar" />
+    </item>
+    <item
+        jar="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-6c53fba271910f60189f46718bbed720aaad4286.jar" />
+    </item>
+    <item
+        jar="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-be54012eb6cebd28be44cd263d4ef4195c61beaa.jar" />
+    </item>
+    <item
+        jar="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-3d43707c5ebd0d966b1318d3a48a24e62231c718.jar" />
     </item>
     <item
         jar="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/libs/internal_impl-22.0.0.jar"
@@ -44,18 +58,25 @@
         <dex dex="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-a74132b92b4cb5f0591127cbdff749d3da7c182d.jar" />
     </item>
     <item
-        jar="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jar="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/libs/internal_impl-22.2.1.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-7f456f1b31aa1f95425f84098e0b3b00ab486a61.jar" />
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-ab0c313445c13be0878fbb3e14da9bd3316ad355.jar" />
     </item>
     <item
-        jar="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jar="/Users/adampodraza/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-294c6c064b3056e9893344458a7bd9a20372cdc0.jar" />
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-e37a5c43e3d0dbbbe338e0efdeaa64379c534808.jar" />
+    </item>
+    <item
+        jar="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-1cad91f1eedb66903ce6de89868c65da948cd6c5.jar" />
     </item>
     <item
         jar="/Users/adampodraza/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/1.1.0/d51280dbb4e8539f6c3f369d516edc26f9d89d31/okhttp-1.1.0.jar"
@@ -63,20 +84,6 @@
         revision="22.0.1"
         sha1="d51280dbb4e8539f6c3f369d516edc26f9d89d31">
         <dex dex="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-1.1.0-998e23f46be005f2b02b35dc0c9904950a7d0a2d.jar" />
-    </item>
-    <item
-        jar="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c6d79137693d494dee16372d3921f919eb724ced">
-        <dex dex="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-98f176de0ca3af1835537fd2788324ca34acb22f.jar" />
-    </item>
-    <item
-        jar="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
-        <dex dex="/Users/adampodraza/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-6c53fba271910f60189f46718bbed720aaad4286.jar" />
     </item>
 
 </items>

@@ -1,8 +1,9 @@
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="@color/theme_primary_dark">
 
     <android.support.v4.widget.SwipeRefreshLayout
         android:id="@+id/swipe_refresh_layout"
@@ -25,7 +26,7 @@
         android:id="@+id/toolbar_container"
         android:layout_width="match_parent"
         android:layout_height="112dp"
-        android:background="?colorPrimary"
+        android:background="@color/theme_primary"
         android:elevation="8dp">
 
         <android.support.v7.widget.Toolbar
@@ -35,7 +36,8 @@
             android:layout_marginRight="@dimen/list_toolbar_side_margin"
             android:layout_width="match_parent"
             android:layout_height="?actionBarSize"
-            android:layout_gravity="bottom">
+            android:layout_gravity="bottom"
+            android:background="@color/theme_primary">
 
             <ImageView
                 android:layout_width="wrap_content"
@@ -46,4 +48,4 @@
         </android.support.v7.widget.Toolbar>
     </FrameLayout>
 
-</FrameLayout><!-- From: file:/Users/adampodraza/Downloads/xyzreader/XYZReader/src/main/res/layout/activity_article_list.xml -->
+</android.support.design.widget.CoordinatorLayout><!-- From: file:/Users/adampodraza/Downloads/xyzreader/XYZReader/src/main/res/layout/activity_article_list.xml -->
